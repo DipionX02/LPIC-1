@@ -7,3 +7,4 @@ Conteúdo para certificação LPIC-1
 
 **Fontes:**
 * [Reference Manual - GNU](https://www.gnu.org/software/bash/manual/bash.html)
+* [Objetivos do Exame 101 - Linux Professional Institute](https://www.lpi.org/pt/our-certifications/exam-101-objectives)
