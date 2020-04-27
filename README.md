@@ -11,10 +11,10 @@ Conteúdo para certificação LPIC-1
 
 **Tópicos:**
 
-- [ ] 101
-- [ ] 102
-- [ ] 103
-- [ ] 104
+- [ ] 101 - System Architecture
+- [ ] 102 - Linux Installation and Package Management
+- [ ] 103 - GNU and Unix Commands
+- [ ] 104 - Devices, Linux Filesystems, Filesystem Hierarchy Standard
 - [ ] 105
 - [ ] 106
 - [ ] 107
